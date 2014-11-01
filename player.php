@@ -5,7 +5,7 @@
  * Plugin URI: http://wordpress.org/aaplayer
  * Description: This is a cross browser supported audio player with playlist and shortcode enriched. This plugin is developed by Double A. For shortcode use [aaplayer src='http://yoursite.com/example.mp3'] , for playlist please read readme.txt . It is the in plugin folder.
  * Version: 1.0
- * Author: A. Roy / A. Mahmud
+ * Author: aaextention
  * Author URI: http://webdesigncr3ator.com
  * Support Email : contact2us.aa@gmail.com
  * License: GPL2
