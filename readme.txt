@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This is a cross browser supported audio player with playlist and shortcode enriched. Here is the shortcode for using it [aaplayer]. There is a big description below on how to use it.
+This is a cross browser supported audio player with playlist and shortcode enriched. 
 
 ==Description==
 This plugin is created for using audio's to your website.
